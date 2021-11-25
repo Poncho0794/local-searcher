@@ -1,0 +1,19 @@
+.search {
+    
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    position: relative;
+}
+
+.search--center {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.search--top {
+    justify-content: flex-start;
+    align-items: center;
+}
+
